@@ -27,13 +27,15 @@ body {
 #weather .box input {
   border-radius: 20px;
   border: 2px solid white;
+  width: 165px;
 }
 #weather .box #btn {
   background-color: #79afff;
   padding: 10px;
-  margin: 18px;
+  margin: 30px;
   border-radius: 20px;
   color: white;
+  margin-top: 20px;
 }
 #weather .box #btn:hover {
   cursor: pointer;
